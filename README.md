@@ -1,2 +1,3 @@
 # web_scrapping_project
-the aim of the project is to scrapping data from websites
+## the data that i scraped it from amazon is (laptop_Name | laptop Price | laptop Reviews)
+
